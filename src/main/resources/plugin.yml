@@ -1,0 +1,5 @@
+name: AgaMcmmoWage
+main: com.craftaga.agamcmmowage.AgaMcmmoWage
+version: 0.1.0
+depend: [AgaBacbone, Vault, mcMMO]
+description: So players get paid
